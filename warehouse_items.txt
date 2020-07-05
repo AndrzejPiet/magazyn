@@ -1,0 +1,1 @@
+[["jablka", 100, "kg", 30], ["czeresnie", 20, "kg", 50], ["woda", 1000, "l", 1.2], ["lemoniada", 100, "l", 2]]
